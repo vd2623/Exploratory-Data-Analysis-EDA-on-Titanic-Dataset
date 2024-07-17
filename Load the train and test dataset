@@ -1,0 +1,8 @@
+#load the train dataset
+train = pd.read_csv('../input/train.csv')
+#inspect the first few rows of the train dataset
+display(train.head())
+#load the train dataset
+train = pd.read_csv('../input/train.csv')
+#inspect the first few rows of the train dataset
+display(train.head())
